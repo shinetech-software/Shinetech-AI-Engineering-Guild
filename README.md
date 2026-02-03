@@ -20,14 +20,14 @@
 
 - 浏览 `prompts/` 文件夹下的提示词模板，从中获取 Prompt 工程的灵感和范例。
 - 查阅 `tool-guides/` 板块，学习如何使用各种 AI 工具和平台来提高开发效率。
-- 探索 `agents/` 目录，了解 AI Agents 的构建方法和应用示例，学习如何开发 AI 辅助工具。
+- 探索 `agents/` 目录，了解 AI Agents 的构建方法和应用示例，学习如何开发 AI 辅助工具和agent skills。
 - 阅读 `best-practices/` 中整理的最佳实践和技巧，从经验总结中掌握更高效的 AI 开发方法。
 - 参考 `cases/` 中的真实项目案例，借鉴其他项目中 AI 技术的应用经验。
 
 > This repository offers a wealth of AI engineering resources for Shinetech team members to leverage in their work and learning:  
 > - Browse `prompts/` for prompt templates and examples.  
 > - Read `tool-guides/` to learn how to use AI tools effectively.  
-> - Explore `agents/` for building your own AI agents and assistants.  
+> - Explore `agents/` for building your own AI agents and agent skills.  
 > - Learn from `best-practices/` to improve AI-assisted workflows.  
 > - Refer to `cases/` for real-life applications and lessons learned.
 
