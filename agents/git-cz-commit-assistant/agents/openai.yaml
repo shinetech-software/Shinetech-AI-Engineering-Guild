@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git CZ Commit Assistant"
+  short_description: "Draft and improve strict Conventional Commit messages"
+  default_prompt: "Review staged changes, propose strict conventional commit messages, then guide git cz commit flow."
