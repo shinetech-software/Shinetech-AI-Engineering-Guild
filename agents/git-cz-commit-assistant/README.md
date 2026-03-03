@@ -2,6 +2,9 @@
 
 Drafts and improves strict Conventional Commit messages from staged git changes, then guides final commit execution with Commitizen (`git cz`).
 
+<img width="1289" height="636" alt="screenshot-2026-03-02_15-50-10" src="https://github.com/user-attachments/assets/ac2f4ab5-f700-4579-a07d-88e03aee8d94" />
+
+
 ## What this skill does
 
 - Builds commit proposals from real staged diffs instead of generic guesses.
