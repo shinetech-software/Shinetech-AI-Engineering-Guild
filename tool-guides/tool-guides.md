@@ -8,4 +8,5 @@
   - [`Amazon Kiro`](./IDE/Kiro/kiro.md)
 - Terminal
   - [`Claude Code`](./Terminal/Claude%20Code/claude-code.md)
+    - [`Claude Agent Teams Setup Guide`](./Terminal/Claude%20Code/claude-agent-teams.md)
   - [`GPT Codex`](./Terminal/GPT%20Codex/gpt-codex.md)
